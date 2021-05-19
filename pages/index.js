@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 import Head from 'next/head';
 
-import Hero from '../components/home/Hero';
+import Hero from '../components/home/hero';
 import FeaturedPosts from '../components/home/featured-posts';
 import { getFeaturedPosts } from '../helpers/posts-util';
 
